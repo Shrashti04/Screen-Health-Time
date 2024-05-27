@@ -1,6 +1,6 @@
 # Screen Health Time
 
-Your Screen Health Time extension helps to track and alert you on time spent on mindless scrolling!
+This Screen Health Time extension helps to track and alert you on time spent on mindless scrolling!
 
 # Introduction
 
